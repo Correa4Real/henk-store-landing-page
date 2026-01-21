@@ -32,7 +32,7 @@ const Footer = () => {
 
         <div className="mt-8 pt-8 border-t border-border text-center">
           <p className="text-muted-foreground text-sm flex items-center justify-center gap-1">
-            Feito com <Heart className="w-4 h-4 text-primary" /> em Santa Maria, RS
+            Feito Por Gabriel Coradini e Gabriel Machado
           </p>
           <p className="text-muted-foreground text-xs mt-2">
             © {new Date().getFullYear()} Henk Store. Todos os direitos reservados.
